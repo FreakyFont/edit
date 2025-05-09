@@ -568,3 +568,5 @@
 * [FontGenerator.cool](https://fontgenerator.cool/)
 * [Font Changer Guru](https://fontchangerguru.com/)
 * [Fancy Text Decorator](https://fancytextdecorator.com/)
+* [Freaky Font](https://www.freakyfont.top/)
+* [Fancy Font](https://www.fancyfontpro.com/)
